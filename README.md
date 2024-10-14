@@ -1,7 +1,7 @@
 # EDA on AMCAT Dataset
 This project analyzes salary trends for Computer Science Engineering (CSE) graduates in India, focusing on the factors influencing their salary packages. It explores various attributes such as academic performance, specialization, degree, and gender, providing insights into the Indian job market for fresh graduates. The analysis also addresses the claim made by the Times of India regarding salary expectations for fresh CSE graduates.
 
-#Project Highlights:
+# Project Highlights:
 
 Dataset Overview: The project begins with an exploration of the data, focusing on understanding its structure and addressing missing values, ensuring high-quality insights.
 
@@ -17,7 +17,7 @@ Categorical vs. Numerical: The impact of categorical variables like degree and s
         
 Categorical vs. Categorical: The relationship between gender and specialization is explored, revealing patterns in how specialization choices might depend on gender.
 
-Key Objectives:
+# Key Objectives:
 
 Validate Industry Salary Claims: Compare real-world data with media-reported salary expectations for fresh CSE graduates.
 
@@ -25,10 +25,10 @@ Analyze Salary Distribution: Understand how salary varies with academic performa
 
 Explore Specialization Choices: Investigate whether gender influences specialization selection.
 
-Technologies Used:
-    Python
-    Pandas
-    Matplotlib
-    Seaborn
+# Technologies Used:
+Python
+Pandas
+Matplotlib
+Seaborn
 
-Project Objective: To analyze salary trends for CSE graduates, validate industry claims, and provide insights into the key factors that impact salary outcomes.
+# Project Objective: To analyze salary trends for CSE graduates, validate industry claims, and provide insights into the key factors that impact salary outcomes.
