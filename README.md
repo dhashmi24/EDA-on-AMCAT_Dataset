@@ -27,9 +27,22 @@ Explore Specialization Choices: Investigate whether gender influences specializa
 
 # Technologies Used:
 Python
+
 Pandas
+
 Matplotlib
+
 Seaborn
 
 # Project Objective: 
 To analyze salary trends for CSE graduates, validate industry claims, and provide insights into the key factors that impact salary outcomes.
+
+# Insights and Conclusions:
+
+Salary Ranges: The project provides a detailed analysis of salary ranges for fresh graduates in CSE roles, offering insights into expected starting salaries.
+
+Academic Performance: A noticeable correlation exists between higher Quant and Logical scores and increased salary packages, though with some variation based on specialization and degree.
+    
+Gender & Specialization: While there is some variation in specialization choices between genders, these differences are statistically insignificant when it comes to salary outcomes.
+
+Industry Claim Validation: The Times of India’s claim of fresh graduate salary ranges (2.5-3 lakhs) holds true for many cases, but a significant portion of graduates also earns below or above this range based on various factors like degree and academic scores.
