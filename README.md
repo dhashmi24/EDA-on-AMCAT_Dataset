@@ -1,4 +1,4 @@
-# EDA-on-AMCAT_Dataset
+# EDA on AMCAT Dataset
 This project analyzes salary trends for Computer Science Engineering (CSE) graduates in India, focusing on the factors influencing their salary packages. It explores various attributes such as academic performance, specialization, degree, and gender, providing insights into the Indian job market for fresh graduates. The analysis also addresses the claim made by the Times of India regarding salary expectations for fresh CSE graduates.
 
 Key Features:
@@ -10,6 +10,13 @@ Key Features:
     Categorical Analysis: Exploring the relationship between gender, specialization, and salary.
     Validation of Salary Claims: Testing the Times of India's claim about fresh graduates’ salary ranges for specific roles like Programmer Analyst, Software Engineer, and Associate Engineer.
 
+Key Objectives:
+
+Validate Industry Salary Claims: Compare real-world data with media-reported salary expectations for fresh CSE graduates.
+
+Analyze Salary Distribution: Understand how salary varies with academic performance (Quant, Logical, and English scores), degree level, and gender.
+
+Explore Specialization Choices: Investigate whether gender influences specialization selection.
 
 Technologies Used:
     Python
