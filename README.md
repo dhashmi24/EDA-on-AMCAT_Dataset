@@ -31,4 +31,5 @@ Pandas
 Matplotlib
 Seaborn
 
-# Project Objective: To analyze salary trends for CSE graduates, validate industry claims, and provide insights into the key factors that impact salary outcomes.
+# Project Objective: 
+To analyze salary trends for CSE graduates, validate industry claims, and provide insights into the key factors that impact salary outcomes.
