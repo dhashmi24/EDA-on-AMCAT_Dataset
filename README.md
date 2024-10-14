@@ -1,6 +1,9 @@
 # EDA on AMCAT Dataset
 This project analyzes salary trends for Computer Science Engineering (CSE) graduates in India, focusing on the factors influencing their salary packages. It explores various attributes such as academic performance, specialization, degree, and gender, providing insights into the Indian job market for fresh graduates. The analysis also addresses the claim made by the Times of India regarding salary expectations for fresh CSE graduates.
 
+# Project Objective: 
+To analyze salary trends for CSE graduates, validate industry claims, and provide insights into the key factors that impact salary outcomes.
+
 # Project Highlights:
 
 Dataset Overview: The project begins with an exploration of the data, focusing on understanding its structure and addressing missing values, ensuring high-quality insights.
@@ -34,8 +37,6 @@ Matplotlib
 
 Seaborn
 
-# Project Objective: 
-To analyze salary trends for CSE graduates, validate industry claims, and provide insights into the key factors that impact salary outcomes.
 
 # Insights and Conclusions:
 
