@@ -1,14 +1,15 @@
 # EDA on AMCAT Dataset
 This project analyzes salary trends for Computer Science Engineering (CSE) graduates in India, focusing on the factors influencing their salary packages. It explores various attributes such as academic performance, specialization, degree, and gender, providing insights into the Indian job market for fresh graduates. The analysis also addresses the claim made by the Times of India regarding salary expectations for fresh CSE graduates.
 
-Key Features:
-    Data Exploration: Initial exploration of the dataset, including statistical summaries and identification of missing values.
-    Data Cleaning: Handling missing data, removing outliers, and preparing the data for analysis.
-    Univariate and Bivariate Analysis: Visualizing the distribution of salaries and identifying relationships between salary and other factors like degree, specialization, and academic scores.
-    Outlier Detection and Removal: Ensuring the accuracy of the analysis by removing extreme salary outliers.
-    Correlation Analysis: Investigating the relationship between different numerical features such as Quant, Logical, and English scores with salary.
-    Categorical Analysis: Exploring the relationship between gender, specialization, and salary.
-    Validation of Salary Claims: Testing the Times of India's claim about fresh graduates’ salary ranges for specific roles like Programmer Analyst, Software Engineer, and Associate Engineer.
+Project Highlights:
+
+Dataset Overview: The project begins with an exploration of the data, focusing on understanding its structure and addressing missing values, ensuring high-quality insights.
+Times of India Claim Validation: One of the main objectives is to validate the Times of India's claim that fresh graduates in roles like Programmer Analyst, Software Engineer, and Associate Engineer can earn up to INR 2.5-3 lakhs annually. This is tested using statistical and visual methods.
+Univariate Analysis: Key insights into salary distributions and other relevant features such as quant scores, logical reasoning scores, and specialization choices are presented using histograms, bar plots, and descriptive statistics.
+Bivariate Analysis:
+        Numerical vs. Numerical: Relationships between numerical features like Quant and Logical scores with Salary are examined using scatter plots and pair plots.
+        Categorical vs. Numerical: The impact of categorical variables like degree and specialization on salary is visualized through bar charts and boxplots.
+        Categorical vs. Categorical: The relationship between gender and specialization is explored, revealing patterns in how specialization choices might depend on gender.
 
 Key Objectives:
 
